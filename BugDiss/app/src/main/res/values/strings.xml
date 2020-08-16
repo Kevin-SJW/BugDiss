@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DissBug</string>
+    <string name="bug_title_hint">Enter a title for the crime.</string>
+    <string name="bug_title_label">Title</string>
+    <string name="bug_details_label">Details</string>
+    <string name="bug_solved_label">Solved</string>
+    <string name="date_picker_title">Date of crime:</string>
+    <string name="new_bug">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d crimes</string>
+    <string name="bug_suspect_text">Choose Suspect</string>
+    <string name="bug_report_text">Send Crime Report</string>
+    <string name="bug_report">%1$s! The crime was discovered on %2$s. %3$s, and %4$s</string>
+    <string name="bug_report_solved">The case is solved</string>
+    <string name="crime_report_unsolced">The case is not solved</string>
+    <string name="crime_report_nosuspect">there is no suspect.</string>
+    <string name="bug_report_suspect">the suspect is %s.</string>
+    <string name="bug_report_subject">bug Report</string>
+    <string name="send_report">Send crime report via</string>
+    <string name="call_110">call 110</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d crime</item>
+        <item quantity="other">%1$d crimes</item>
+    </plurals>
+</resources>
